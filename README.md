@@ -1,6 +1,4 @@
-![ScreenShot](https://hostr.co/file/JKwUD2wp7YFM/Icon-F.png) 
-
-MSC
+![ScreenShot](https://hostr.co/file/JKwUD2wp7YFM/Icon-F.png) MSC
 ===
 ![ScreenShot](https://hostr.co/file/nZxpEoXBVW10/pic.png)
 
