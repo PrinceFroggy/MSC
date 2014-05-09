@@ -12,6 +12,8 @@ Due to this unexpected occurance, I have decided to open source my project and t
 - This project was close to release for the Global MapleStory region.
 - The cancellation means that the: login logic, legitbot logic, and script logic is not coded within the MSC project.
 
+There are many variations of MSC code that contain different C# methods of updating the GUI and handling information; they were not included and will be pushed onto this project in the upcoming future.
+
 Shout-outs to;
 
 - CheatEngine 
