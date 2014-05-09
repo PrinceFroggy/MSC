@@ -1,9 +1,7 @@
 MSC
 ===
-
 ![ScreenShot](https://hostr.co/file/nZxpEoXBVW10/pic.png)
 ===
-
 Continuation of MSB.
 
 - This trainer was meant to work for majority of the MapleStory regions by utilizing 'bypassless hacking'.
@@ -15,6 +13,5 @@ Due to this unexpected occurance, I have decided to open source my project and t
 - The cancellation means that the: login logic, legitbot logic, and script logic is not coded.
 
 Enjoy.
-
 ===
 
