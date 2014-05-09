@@ -10,7 +10,7 @@ Continuation of MSB.
 Due to this unexpected occurance, I have decided to open source my project and to focus on school.
 
 - This project was close to release for the Global MapleStory region.
-- The cancellation means that the: login logic, legitbot logic, and script logic is not coded within the MSC project; they are coded in their seperate projects, just not transferred onto this project.
+- The cancellation means that the: login logic, legitbot logic, and script logic is not coded within the MSC project.
 
 Shout-outs to;
 
