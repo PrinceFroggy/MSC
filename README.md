@@ -1,4 +1,5 @@
 MSC
+
 ===
 ![ScreenShot](https://hostr.co/file/nZxpEoXBVW10/pic.png)
 ===
@@ -13,5 +14,6 @@ Due to this unexpected occurance, I have decided to open source my project and t
 - The cancellation means that the: login logic, legitbot logic, and script logic is not coded.
 
 Enjoy.
+
 ===
 
