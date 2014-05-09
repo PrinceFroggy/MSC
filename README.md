@@ -18,9 +18,6 @@ Shout-outs to;
 
 - CheatEngine 
 - Yaminike
-- L L
-- Alex
-- Chubbz
 
 Enjoy.
 
