@@ -14,8 +14,7 @@ Due to this unexpected occurance, I have decided to open source my project and t
 
 Shout-outs to;
 
-- CheatEngine
-- GameKiller
+- CheatEngine - GameKiller
 
 - Yaminike
 - L L
