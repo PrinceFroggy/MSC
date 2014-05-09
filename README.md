@@ -2,6 +2,7 @@ MSC
 ===
 ![ScreenShot](https://hostr.co/file/nZxpEoXBVW10/pic.png)
 ===
+
 Continuation of MSB.
 
 - This trainer was meant to work for majority of the MapleStory regions by utilizing 'bypassless hacking'.
