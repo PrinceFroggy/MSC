@@ -17,7 +17,6 @@ Different methods and everything else that is currently not included will eventu
 Shout-outs to;
 
 - CheatEngine 
-- GameKiller
 - Yaminike
 - L L
 - Alex
