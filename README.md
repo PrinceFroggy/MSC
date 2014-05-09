@@ -12,6 +12,16 @@ Due to this unexpected occurance, I have decided to open source my project and t
 - This project was close to release for the Global MapleStory region.
 - The cancellation means that the: login logic, legitbot logic, and script logic is not coded.
 
+Shout-outs to;
+
+- CheatEngine
+- GameKiller
+
+- Yaminike
+- L L
+- Alex
+- Chubbz
+
 Enjoy.
 
 ===
