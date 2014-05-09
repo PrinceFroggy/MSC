@@ -12,7 +12,7 @@ Due to this unexpected occurance, I have decided to open source my project and t
 - This project was close to release for the Global MapleStory region, rest was to be announced.
 - The cancellation means that the: login logic, legitbot logic, and script logic is not included within the MSC project.
 
-Everything that is currently not included will eventually be pushed as seperate projects later.
+Different methods and everything else that is currently not included will eventually be pushed as seperate projects later.
 
 Shout-outs to;
 
