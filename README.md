@@ -14,11 +14,6 @@ Due to this unexpected occurance, I have decided to open source my project and t
 
 Different methods and everything else that is currently not included will eventually be pushed as seperate projects later.
 
-Shout-outs to;
-
-- CheatEngine 
-- Yaminike
-
 Enjoy.
 
 ===
