@@ -12,8 +12,6 @@ Due to this unexpected occurance, I have decided to open source my project and t
 - This project was close to release for the Global MapleStory region, rest was to be announced.
 - The cancellation means that the: login logic, legitbot logic, and script logic is not included within the MSC project.
 
-This project was coded within the 2010 Visual Studio IDE.
-
 Enjoy.
 
 ===
