@@ -6,9 +6,10 @@ A MapleStory bot.
 
 - This bot worked until 05/08/14, therefore concluding this project.
 - This conclusion means that the: login, legitbot, and script logic is not included within the MSC project.
-- http://maplestory.nexon.net/
 
 Enjoy.
+
+http://maplestory.nexon.net/
 
 ===
 
